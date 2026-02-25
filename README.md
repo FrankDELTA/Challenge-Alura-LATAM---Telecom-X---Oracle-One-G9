@@ -50,10 +50,3 @@ Abrí el archivo .ipynb en Google Colab.
 Dale a "Entorno de ejecución" > "Ejecutar todas".
 
 ¡Listo! Los gráficos se generan solos trayendo la data de la API.
-
-🎓 Sobre mí
-Soy Francisco, me apasiona cruzar la economía con los datos. Estoy en pleno aprendizaje de Python para Data Science y este es uno de mis primeros desafíos grandes.
-
-LinkedIn: [Tu link de LinkedIn acá]
-
-Twitter/X: [Tu link si tenés]
